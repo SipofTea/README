@@ -20,7 +20,7 @@ Now that I've graduated from Maker's I hope to find a role in a company where I 
 | **[Note Keeper](https://github.com/SipofTea/js-notes-app)**| A 3 person project to let you create and view notes. Written without (testing)frameworks, but still well tested.| 1 week | JavaScript, HTML, CSS, Surge |
 | **[Chitter](https://github.com/SipofTea/chitter-challenge)**| A light Twitter clone that lets you post and view 'peeps'. | 2 days | Ruby, ERB, PostgreSQL, RSpec, Capybara, SimpleCov, Rubocop |
 | **[Bank Tech Test](https://github.com/SipofTea/bank-tech-test)**| A command line app that lets you manage a bank account.| 2 days | JavaScript, Karma, Jasmine, Standard |
-| **[Gilded Rose](https://github.com/SipofTea/gilded-rose-tech-test)**| A refactoring challenge for a inventory management system. | 2 days | JavaScript, Jasmine, Standard |
+| **[Gilded Rose](https://github.com/SipofTea/gilded-rose-tech-test)**| A refactoring challenge for an inventory management system. | 2 days | JavaScript, Jasmine, Standard |
 
 ## Work Experience
   
