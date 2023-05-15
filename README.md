@@ -6,9 +6,9 @@
 ### Full Stack Software Developer
 I am a mid-level full stack Software Engineer, with experience in Typescript, Javascript, Next.js, React, and Ruby on Rails. I am a strong advocate for well tested code, and I am proficient in using Git. 
 
-In my current role as a Software Engineer at Boxt, I am working on the full stack for both internal and customer facing projects. I enjoy solving problems, writing well tested code, and being able to implement a feature from start to finish. I highly value a friendly and open team culture, where I can benefit from mentoring and being mentored by my peers. I have often received positive feedback on my willingness to pair and help out, and on my efforts to keep team morale high.
+In my current role as a Software Engineer at Boxt I have been working on the full stack for both internal and customer facing projects. I enjoy solving problems, writing well tested code, and being able to implement a feature from start to finish. I highly value a friendly and open team culture, where I can benefit from mentoring and being mentored by my peers. I have often received positive feedback on my willingness to pair and help out, and on my efforts to keep team morale high.
 
-I am a scientist turned Software Developer. I started off in Biomedical Science, Bio-archaeology, and Forensic Anthropology but became a code enthusiast whilst working in Localisation Quality Assurance. After writing some of my own projects I took the plunge and started Maker's Academy Full-Stack Developer Bootcamp. Here I gained experience in JavaScript, Ruby, and other basic skills needed to become a junior developer.
+I am a scientist turned Software Developer. I started off in Biomedical Science, Bio-archaeology, and Forensic Anthropology. After concluding a successful excavation I started working as a Dutch language tester in Localisation Quality Assurance. I developed a strong desire to solve issues myself, rather than reporting them, which led me to start coding. After writing some of my own projects I took the plunge and started Maker's Academy Full-Stack Developer Bootcamp. Here I gained experience in JavaScript, Ruby, and other basic skills needed to become a junior developer.
 
 ## Projects
 
