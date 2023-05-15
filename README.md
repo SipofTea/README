@@ -31,7 +31,7 @@ _Software Engineer_
 
 - Taking initiative: I initiated and supported an engineering-wide drive to improve our testing strategy by increasing test coverage and educating colleagues on testing best practices. I have established a reputation for testing quality, and have become a point of contact for testing queries amongst my peers.
 - Soft skills: I have enjoyed helping others in pairing sessions. I am always looking out for ways to improve my team's happiness, which has been recognized several times.
-- Responsibilities: In addition to my from regular work duties, I was also part of a 'sweeper' rotation, responsible for resolving high priority, time critical issues related to production data, whilst communicating my progress clearly.
+- Responsibilities: In addition to my regular work duties, I was also part of a 'sweeper' rotation, responsible for resolving high priority, time critical issues related to production data, whilst communicating my progress clearly.
 
 **Boxt Limited** (November 2021 to November 2022)
 _Junior Software Developer_
@@ -46,9 +46,9 @@ _Localisation Quality Assurance Tester_
 - Conflict management: Working in a large, multicultural team helped me develop my communication and collaboration skills as I coordinated work with other team members and other teams.
 - Mentoring junior colleagues: After their initial onboarding I mentored junior colleagues, helping them get up to speed with our systems and ways of working. I learned to multitask efficiently: progressing with my own tasks whilst assisting and answering questions in a remote environment.
 
-
-**MHI** (February 2019 to September 2019)  
+**MHI** (February 2019 to September 2019)
 _Site Assistant at HS2 Euston Excavation_
+
 - Excavating human remains and grave furnishings at the burial ground in St. James' Gardens: I excavated complicated, three dimensional contexts and recorded my findings digitally. 
 - Processing human remains post-excavation: I worked under tight deadlines to clean excavated remains to a high standard.
 
